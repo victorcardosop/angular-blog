@@ -17,7 +17,19 @@ Projeto desenvolvido no Bootcamp Cloud Fullstack, promovido pela DIO para ensino
 <br>
 
 <p align="center">
-<img alt="Projeto Blog" src="./assets/preview.JPG" width="100%">
+<img alt="Home Projeto Blog" src="./.github/preview1.JPG" width="100%">
+</p>
+<p align="center">
+Imagem da tela home do Blog (Imagem 1).
+</p>
+
+<br>
+
+<p align="center">
+<img alt="Content Projeto Blog" src="./.github/preview2.JPG" width="100%">
+</p>
+<p align="center">
+Imagem da tela content do blog (Imagem 2).
 </p>
 
 ## Tecnologias
@@ -31,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
---
+O Projeto Blog é um projeto feito em Angular usando componentização, com menu contendo redes sociais, além de cards (grandes e pequenos) cada um deles possuindo estilo de pseudo-matérias de blog, em que o usuário clica em uma delas, e as informações daquela matéria são carregadas em um outro componente.
 
 ## :memo: Licença
 
